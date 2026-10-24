@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kalm English Repo",
+    "description": "English repository for CloudStream 3",
+    "filePath": "build/plugin.cs3",
+    "version": 1,
+    "versionCode": 1,
+    "url": "https://raw.githubusercontent.com/lilkalm/kalm/main/build/plugin.cs3",
+    "authors": ["lilkalm"],
+    "language": "en",
+    "categories": ["Movies"]
+  }
+  ]
